@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fullshare-springcloud-eurekaserver/fullshare-springcloud-eurekaserver.iml" filepath="$PROJECT_DIR$/fullshare-springcloud-eurekaserver/fullshare-springcloud-eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullshare-springcloud-feigndemo/fullshare-springcloud-feigndemo.iml" filepath="$PROJECT_DIR$/fullshare-springcloud-feigndemo/fullshare-springcloud-feigndemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullshare-springcloud-parent.iml" filepath="$PROJECT_DIR$/fullshare-springcloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullshare-springcloud-zuul/fullshare-springcloud-zuul.iml" filepath="$PROJECT_DIR$/fullshare-springcloud-zuul/fullshare-springcloud-zuul.iml" />
+    </modules>
+  </component>
+</project>
